@@ -49,8 +49,10 @@ January 2023 to December 2024
 
 ## Screenshots
 
-<img width="1920" height="1020" alt="Screenshot 2026-08-25 012116" src="https://github.com/user-attachments/assets/e4650269-0c12-4f66-9835-fe219741ecb7" />
-<img width="1920" height="1020" alt="Screenshot 2026-08-25 012152" src="https://github.com/user-attachments/assets/36070743-3fbf-4c47-aeb6-10c61b9ec312" />
+<img width="1920" height="1020" alt="Screenshot 2026-08-25 012116" src="https://github.com/user-attachments/assets/a973a8f6-299a-4192-bec9-3a0d2136e57d" />
+<img width="1920" height="1020" alt="Screenshot 2026-08-25 012500" src="https://github.com/user-attachments/assets/a0dd2802-46a8-4917-83f1-53051b9ef370" />
+
+
 
 
 
